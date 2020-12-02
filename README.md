@@ -7,6 +7,10 @@ You need to extract your cooke, client seed and csrf token from playing packet. 
 I'll show you how you can extract this information from your request packet. see below image for more information.
 ![FreeBitcoin Help File](https://raw.githubusercontent.com/Miladkhoshdel/free-bitcoin/main/Help.PNG)
 
+Screenshot From Script:
+![Screenshot From Script](https://raw.githubusercontent.com/Miladkhoshdel/free-bitcoin/main/Script-Work.PNG)
+Delay between requests:
+![Delay between requests](https://raw.githubusercontent.com/Miladkhoshdel/free-bitcoin/main/Script-Work-2.PNG)
 
 
 # FreeBitCoin version 1.1
