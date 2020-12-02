@@ -5,7 +5,7 @@ This is a free script for automatic playing in freebitco.in website and earn Fre
 You need to extract your cooke, client seed and csrf token from playing packet. you can use BurpSuite or any other interception application for extracting this information.
 
 I'll show you how you can extract this information from your request packet. see below image for more information.
-![Create Request/Response File](https://raw.githubusercontent.com/Miladkhoshdel/free-bitcoin/blob/main/Help.PNG)
+![FreeBitcoin Help File](https://raw.githubusercontent.com/Miladkhoshdel/free-bitcoin/main/Help.PNG)
 
 
 
