@@ -16,7 +16,7 @@ def banner():
         print(" #   |_|  |_|  \___|\___| |____/|_|\__\___\___/|_|_| |_|       #")
         print(" #                                                             #")
         print(" #   By: Milad Khoshdel                                        #")
-        print(" #   Blog: https://blog.regux.com                              #")
+        print(" #   Blog: https://regux.com                                   #")
         print(" #   Email: miladkhoshdel@gmail.com                            #")
         print(" #                                                             #")
         print(" ###############################################################")
