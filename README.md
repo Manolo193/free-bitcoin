@@ -1,3 +1,13 @@
+# What is FreeBitCoin ?
+This is a free script for automatic playing in freebitco.in website and earn Free BitCoin. you can play multiple BTC with this script.
+
+# How to Use ?
+You need to extract your cooke, client seed and csrf token from playing packet. you can use BurpSuite or any other interception application for extracting this information.
+
+I'll show you how you can extract this information from your request packet. see below image for more information.
+
+
+
 # FreeBitCoin version 1.1
 
 - All patterns will save automaticly in patter.txt file.
